@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "chFIgz5uJbNQ7sSA3nSLu7a2xzh8kwyA+3VQ1WGxtN17CwRtQWEerTB9DijCiuKEwnakUNaX/RETI8uGt2R3Jg==",
+  "success": true,
+  "projectFilePath": "/home/estudos/Documentos/dio-dotnet-poo-lab-1-master/DIO.Bank.csproj",
+  "expectedPackageFiles": [
+    "/home/estudos/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/estudos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/estudos/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.19/microsoft.netcore.app.host.linux-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

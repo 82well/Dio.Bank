@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/estudos/Documentos/DIO/DIO.csproj": {}
+  },
+  "projects": {
+    "/home/estudos/Documentos/DIO/DIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/estudos/Documentos/DIO/DIO.csproj",
+        "projectName": "DIO",
+        "projectPath": "/home/estudos/Documentos/DIO/DIO.csproj",
+        "packagesPath": "/home/estudos/.nuget/packages/",
+        "outputPath": "/home/estudos/Documentos/DIO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/estudos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
